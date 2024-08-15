@@ -1,0 +1,7 @@
+Flask
+flask-cors
+google-cloud-bigquery
+google-cloud-aiplatform
+python-dotenv
+vertexai
+gunicorn
